@@ -37,7 +37,9 @@ I am particularly interested in SQL, relational database design, and data analys
 </p>
 
  <!-- contacts -->
- <a href="[(https://www.instagram.com/janynesss/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/janynesss/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
  <a href = "mailto:janynesoaressilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <!-- Snack -->
