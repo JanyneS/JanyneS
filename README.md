@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">🌿Hello World🌿</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -37,6 +37,9 @@ I am particularly interested in SQL, relational database design, and data analys
 </p>
 
  <!-- contacts -->
+### ☕ Let's connect
+
+
 <a href="https://www.instagram.com/janynesss/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
