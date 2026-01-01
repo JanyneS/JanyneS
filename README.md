@@ -22,6 +22,7 @@ My career goal is to become a Database Administrator (DBA), focusing on data int
 
 I’m currently pursuing a specialization in Data Science and enjoy working on projects that involve relational databases, data analysis, and automation. 
 I’m always looking to deepen my understanding of database design and improve the quality of the solutions I build.
+# Tech Stack:
 
 <p align="left">
   <!-- Databases -->
