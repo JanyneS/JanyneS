@@ -48,6 +48,7 @@ I’m always looking to deepen my understanding of database design and improve t
 ### ☕ Let's connect
 
 
+
 <a href="https://www.instagram.com/janynesss/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -60,4 +61,4 @@ I’m always looking to deepen my understanding of database design and improve t
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JanyneS/JanyneS/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<!--Updated on 2026-01-01-->
