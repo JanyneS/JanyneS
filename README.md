@@ -5,7 +5,8 @@
 
 <!-- Presentation -->
 <p>
- I'm Janyne, a Softaware Engineer with a strong focus on data and database systems.
+ I'm Janyne, a Software Engineer passionate about building reliable, data-driven systems and continuously improving how data is stored, accessed, and analyzed.
+
 </p>
 
 
@@ -15,7 +16,13 @@
 </p>
 
 # About Me:
-I am particularly interested in SQL, relational database design, and data analysis. My career goal is to become a Database Administrator (DBA), working with data integrity, performance, and reliability. I am currently pursuing a specialization in Data Science and continuously working to expand my technical skills and enhance my ability to create effective solutions, using..
+
+I’m particularly interested in how data supports decision-making and system reliability. 
+My career goal is to become a Database Administrator (DBA), focusing on data integrity, performance, and availability.
+
+I’m currently pursuing a specialization in Data Science and enjoy working on projects that involve relational databases, data analysis, and automation. 
+I’m always looking to deepen my understanding of database design and improve the quality of the solutions I build.
+
 <p align="left">
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
