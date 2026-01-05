@@ -44,7 +44,7 @@ I’m always looking to deepen my understanding of database design and improve t
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" title="Power BI"/>
 </p>
 
- <!-- contacts -->  <!-- contacts --> <!-- contacts -->d
+ <!-- contacts -->  <!-- contacts -->
 ### ☕ Let's connect
 
 
