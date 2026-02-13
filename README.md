@@ -1,5 +1,5 @@
 <div id="user-content-toc">
-  <ul align="right">
+  <ul align="center">
     <summary><h1 style="display: inline-block">🌿Hello World🌿</h1></summary>
 </div>
 
@@ -14,7 +14,7 @@
 </p>
 
 <!-- GIF -->
-<p align="center">
+<p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
